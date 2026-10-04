@@ -1,0 +1,8 @@
+{
+  "name": "Opify",
+  "description": "Opify — Opportunities Around You. AI-powered career platform for job discovery, ATS resume optimization, AI career assistant, and application tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

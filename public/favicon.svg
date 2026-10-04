@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140">
+  <style>
+    .opify-ring { stroke: #2563EB; }
+    .opify-pill { fill: #237848; }
+    @media (prefers-color-scheme: dark) {
+      .opify-ring { stroke: #38BDF8; }
+      .opify-pill { fill: #22C55E; }
+    }
+  </style>
+  <!-- Main "O" Blue Open Arc -->
+  <path class="opify-ring"
+        d="M 106 43 A 47 47 0 1 0 87 114" 
+        fill="none" 
+        stroke-width="15" 
+        stroke-linecap="round" />
+  
+  <!-- Green Slanted Pill Accent -->
+  <rect class="opify-pill"
+        x="-7.5" y="-23" width="15" height="46" rx="7.5" ry="7.5" 
+        transform="translate(99, 96) rotate(24)" />
+</svg>

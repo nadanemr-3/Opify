@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140">
+  <!-- Main "O" Blue Open Arc -->
+  <path d="M 106 43 A 47 47 0 1 0 87 114" 
+        fill="none" 
+        stroke="#2563EB" 
+        stroke-width="15" 
+        stroke-linecap="round" />
+  
+  <!-- Green Slanted Pill Accent -->
+  <rect x="-7.5" y="-23" width="15" height="46" rx="7.5" ry="7.5" 
+        fill="#237848"
+        transform="translate(99, 96) rotate(24)" />
+</svg>
